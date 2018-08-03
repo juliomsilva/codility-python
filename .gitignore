@@ -2,4 +2,4 @@
 .vscode
 *.pyc
 .pytest*
-__*
+__pycache__
