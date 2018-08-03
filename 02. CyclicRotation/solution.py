@@ -2,6 +2,9 @@
 
 
 def solution(A, K):
+    if A == []:
+        return []
+
     length = len(A)
 
     for i in range(K):

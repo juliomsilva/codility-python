@@ -12,3 +12,7 @@ def test_solution_1_rotation():
 
 def test_solution_4_rotations():
     assert solution([1, 2, 3, 4], 4) == [1, 2, 3, 4]
+
+
+def test_solution_empty_array():
+    assert solution([], 1) == []
