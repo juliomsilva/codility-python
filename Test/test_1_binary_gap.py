@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 
-from solution import solution
+from Lessons.ex1_binary_gap import solution
 
 
 def test_solution():

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from solution import solution
+from Lessons.ex2_cyclic_rotation import solution
 
 
 def test_solution_1_rotation():
